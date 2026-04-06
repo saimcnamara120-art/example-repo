@@ -1,0 +1,8 @@
+print("welcome home")
+
+# created variable to store the phrase "welcome home"
+greeting_message = "welcome home"
+print(greeting_message)
+
+user_input = input("what is your name? ")
+print("welcome home " + user_input)
